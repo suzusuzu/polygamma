@@ -1,0 +1,13 @@
+[package]
+name = "polygamma"
+version = "0.1.0"
+authors = ["suzusuzu <s.suzugamine@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "This library provides Polygamma function."
+repository = "https://github.com/suzusuzu/polygamma"
+readme = "README.md"
+keywords = ["polygamma", "digamma", "trigamma", "tetragamma"]
+categories = ["mathematics"]
+
+[dependencies]
